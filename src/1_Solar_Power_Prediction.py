@@ -31,7 +31,7 @@ def load_model_direct(plant_num, target_type):
     if not filename:
         return None, None
     
-    path = os.path.join("models", filename)
+    path = os.path.join(filename)
     
     if not os.path.exists(path):
         return None, filename
