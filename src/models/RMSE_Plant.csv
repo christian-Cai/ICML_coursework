@@ -1,0 +1,7 @@
+﻿Plant ,Plant 1,Plant 1,Plant 2,Plant 2
+Power,DC,AC,DC,AC
+Linear Regression,36.8,36.2,196.2,191.9
+Ridge,37.4,36.8,195.5,191.2
+Lasso,36.8,36.2,191.6,187.3
+Random Forest,32.5,31.7,200.5,195.9
+MLP Regressor,30.5,29,206.6,202
